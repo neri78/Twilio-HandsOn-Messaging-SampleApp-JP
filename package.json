@@ -19,8 +19,5 @@
   "homepage": "https://github.com/neri78/Twilio-HandsOn-Messaging-SampleApp-JP#readme",
   "devDependencies": {
     "dotenv": "^8.2.0"
-  },
-  "dependencies": {
-    "twilio": "^3.57.0"
   }
 }
